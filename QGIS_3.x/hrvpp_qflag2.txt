@@ -1,0 +1,60 @@
+# QGIS Generated Color Map Export File
+INTERPOLATION:DISCRETE
+1,44,255,25,0,clear land
+3,0,0,255,255,clear water
+7,160,160,160,255,cloud
+15,80,50,10,255,cloud_shadow
+31,125,125,125,255,topo_shadow
+63,180,200,240,255,thin_cirrus
+127,83,255,250,255,Snow
+255,83,255,250,255,Snow_extra
+383,90,90,90,255,Unclassified
+384,83,255,250,255,Snow_extra over unclassified
+511,90,90,90,255,Unclassified
+1023,201,255,123,0,Eroded/removed
+2047,200,200,200,255,Cloud proximity
+2051,120,90,50,255,Shadow proximity
+2055,160,160,160,255,Cloud over shadow prox.
+3071,120,90,50,255,Shadow proximity
+4095,200,200,200,255,Mixed proximity
+4097,235,235,235,0,Additional cloud proximity
+4099,0,0,255,255,clear water & add. cloud prox.
+4103,160,160,160,255,cloud & add. cloud prox.
+4111,80,50,10,255,cloud_shadow & add. cloud prox.
+4127,125,125,125,255,topo_shadow & add. cloud prox.
+4159,180,200,240,255,thin_cirrus & add. cloud prox.
+4223,83,255,250,255,Snow & add. cloud prox.
+4351,83,255,250,255,Snow_extra & add. cloud prox.
+4479,90,90,90,255,Unclassified & add. cloud prox.
+4480,83,255,250,255,Snow_extra over unclassified & add. cloud prox.
+4607,90,90,90,255,Unclassified & add. cloud prox.
+6143,201,255,123,0,Eroded & add. cloud prox.
+8191,120,90,50,255,Add. cloud & shadow proximity
+8193,146,118,27,0,Additional shadow proximity
+8195,0,0,255,255,clear water & add. shadow prox.
+8199,160,160,160,255,cloud & add. shadow prox.
+8207,80,50,10,255,cloud_shadow & add. shadow prox.
+8223,125,125,125,255,topo_shadow & add. shadow prox.
+8255,180,200,240,255,thin_cirrus & add. shadow prox.
+8319,83,255,250,255,Snow & add. shadow prox.
+8447,83,255,250,255,Snow_extra & add. shadow prox.
+8575,90,90,90,255,Unclassified & add. shadow prox.
+8576,83,255,250,255,Snow_extra over unclassified & add. shadow prox.
+8703,90,90,90,255,Unclassified & add. shadow prox.
+9215,201,255,123,0,Eroded & add. shadow prox.
+12287,200,200,200,255,Cloud prox. & add. shadow proximity
+12289,200,180,160,0,Mixed additional proximity
+12291,0,0,255,255,clear water & mixed add. proximity
+12295,160,160,160,255,cloud & mixed add. proximity
+12303,80,50,10,255,cloud_shadow & mixed add. proximity
+12319,125,125,125,255,topo_shadow & mixed add. proximity
+12351,180,200,240,255,thin_cirrus & mixed add. proximity
+12415,83,255,250,255,Snow & mixed add. proximity
+12543,83,255,250,255,Snow_extra & mixed add. proximity
+12671,90,90,90,255,Unclassified & mixed add. proximity
+12672,83,255,250,255,Snow_extra over unclassified & mixed add. prox.
+12799,90,90,90,255,Unclassified & mixed add. proximity
+16383,201,255,123,1,Eroded & mixed add. proximity
+32767,6,0,6,255,Temporal outlier dark
+65534,245,245,245,255,Temporal outlier bright
+65535,255,147,0,255,No_data
