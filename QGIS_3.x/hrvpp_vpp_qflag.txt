@@ -1,8 +1,8 @@
 # QGIS Generated Color Map Export File
 INTERPOLATION:DISCRETE
-0,200,200,200,255,Not processed
-1,215,25,28,0,No season
-2,253,174,97,255,Filled
-6,255,255,192,255,Low
-9,166,217,106,255,Medium
+0,160,160,160,255,Not processed
+1,255,255,255,255,No season
+2,166,217,106,255,Filled
+6,26,150,65,255,Low
+9,26,150,65,255,Medium
 10,26,150,65,255,High
